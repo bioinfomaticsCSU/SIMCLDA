@@ -1,0 +1,150 @@
+AIDS
+abdominal aortic aneurysm
+acute lymphoblastic leukemia
+acute myeloid leukemia
+adolescent idiopathic scoliosis
+adrenocortical carcinomas
+affective disorders
+aging
+alcoholic liver disease
+Alzheimer's disease
+Angelman syndrome
+aortic aneurysm
+atherosclerosis
+Autism spectrum disorder
+autoimmune disease
+autoimmune thyroid disease
+basal cell carcinoma
+Beckwith-Wiedemann syndrome
+biparental complete hydatidiform moles
+bipolar disorder
+bladder cancer
+blepharophimosis syndrome
+breast cancer
+Burkitt's lymphomas
+cancer
+cardiac hypertrophy
+cardiomyopathy
+cardiovascular disease
+cat eye syndrome
+cervical cancer
+chronic lymphocytic leukemia
+chronic myeloid leukemia
+chronic myeloproliferative disorders
+chronic nonalcoholic liver disease
+cleft lip
+colon cancer
+colorectal cancer
+Congenital hyperinsulinism
+coronary artery disease
+coronary disease
+coronary heart disease
+depression
+dermatomyositis
+Diabetes
+diabetic nephropathy
+DiGeorge syndrome
+dilated cardiomyopathy
+Down's syndrome
+drug abuse
+ductal carcinoma
+dyskeratosis congenita
+embryonal carcinoma
+endometrial cancer
+Endometrial stromal sarcoma
+endometriosis
+esophagus cancer
+familial and sporadic intracranial aneurysms
+fragile X syndrome
+frontotemporal lobar degeneration
+gastric cancer
+gastrointestinal stromal tumors
+germ cell tumor
+gestational choriocarcinoma
+gestational trophoblastic diseases
+Glaucoma
+glioblastoma
+glioma
+growth restriction
+HCV
+hematopoiesis
+hepatic colorectal metastasis
+hepatocellular carcinoma
+heroin abuse
+Hodgkin's lymphoma
+Huntington's disease
+hyperhomocysteinemia
+infertility
+intracranial aneurysm
+kidney cancer
+Klinefelter's syndrome
+Leishmania
+leukemia
+liver cancer
+liver injury
+lung adenocarcinoma
+lung cancer
+lymphocytic leukemia
+lymphoma
+Medulloblastoma
+melanoma
+melasma
+Meningioma
+Mullerian aplasia
+multiple sclerosis
+myelodysplastic syndrome
+myeloma
+myeloproliferative polycythaemia vera
+myocardial infarction
+myopia
+myotonic dystrophy type 1
+narcolepsy
+nasopharyngeal carcinoma
+neural system tumors syndrome
+neural tube defects
+neuroblastoma
+Neurofibromatosis type 1
+nonfunctioning pituitary adenomas
+non-small cell lung cancer
+obesity
+osteosarcoma
+ovarian cancer
+pancreatic cancer
+Pancreatic ductal adenocarcinoma
+pancreaticobiliary maljunction
+panic disorder
+papillary thyroid carcinoma
+Parkinson's disease
+parotid cancer
+periodontitis
+peripheral artery disease
+pheochromocytoma
+photoperiod-sensitive male sterility
+Pituitary adenoma
+polymyositis
+Prader-Willi syndrome
+pre-eclampsia
+prostate cancer
+pseudohypoparathyroidism type Ib
+psoriasis
+renal cancer
+renal disease
+rhabdomyosarcoma
+schizoaffective disorder
+Schizophrenia
+Silver-Russell syndrome
+spinocerebellar ataxia type 7
+spinocerebellar ataxia type 8
+Split Hand/Split Foot malformation disorder
+squamous carcinoma
+Stroke
+syndromic developmental defect
+testicular cancer
+tongue cancer
+transient neonatal Diabetes mellitus
+trophoblastic tumor
+type 1 Diabetes
+type 2 Diabetes
+velocardiofacial syndrome
+West Syndrome
+Wilms' tumor
