@@ -44,5 +44,3 @@ Files:
 3) SIMC.m : function completing matrix;
 
 4) SIMCLDA: predict potential lncRNA-disease associations; 
-
-3.
