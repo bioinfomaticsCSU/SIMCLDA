@@ -1,7 +1,7 @@
 function retVal=sidesvd2Threshold(svdt1,svdt2,svdt3,L,lambda)
-%sidesvd2Threshold soft-threshold shrink svd
-%function retVal=svdThreshold(U,hatT,B0,L,lambda)
-
+%sidesvd2Threshold soft-threshold shrink svd (SVT) calculate approximation
+%				   value of Z
+%
 % A=B0-1/L*U'*((U*B0-hatT).*double(hatT>0));
 % k=rank(A);
 % [L_svd,S_svd,T_svd] = svds(A,k);
