@@ -1,6 +1,6 @@
-% SMFLDA: Prediction of lncRNA-disease associations based on inductive matrix completion
+% SIMCLDA: Prediction of lncRNA-disease associations based on inductive matrix completion
 %  
-%%%%%%%%%%
+%%
 %   interMatrix.mat: an n*m association matrix between lncRNAs and diseases, n is 
 %the number of lncRNAs, and m is the number of diseases
 %   lncSim.mat: an n*n sequence similarity matrix of lncRNAs
@@ -13,10 +13,6 @@ addpath('SIMC');
 LD=importdata('../Datasets/Dataset1/interMatrix.mat');
 lncSim=importdata('../Datasets/Dataset1/lncSim.mat');    
 dissim=importdata('../Datasets/Dataset1/disSim_Jaccard.mat');
-
-%% computing Gaussian interaction profile kernel of lncRNAs
-[LL,~]=gKernel(nl,nd,LD);  
-[nl,nd]=size(LD);
 
 %% complete interaction information for a new lncRNA
 for i=1:nl
@@ -34,6 +30,10 @@ for i=1:nl
         end
     end
 end
+
+%% computing Gaussian interaction profile kernel of lncRNAs
+[LL,~]=gKernel(nl,nd,LD);  
+[nl,nd]=size(LD);
 
 %% extract feature vectors of lncRNAs and diseases
 lnc_feature=pca_energy(LL,0.8);
